@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yan Bowen 
+# 👋 Hi, I'm Yan Bowen (严博文)
 
 🎓 Undergraduate @ Nanjing University of Posts and Telecommunications  
 📚 Major: Electronic Science and Technology  
