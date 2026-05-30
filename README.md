@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yan Bowen 
 
-<!--
-**yanbw-prog/yanbw-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate @ Nanjing University of Posts and Telecommunications  
+📚 Major: Electronic Science and Technology  
+📍 Nanjing, China
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **HDL**: Verilog HDL, FPGA Development (Vivado / ISE)
+- **EDA Tools**: Multisim, MATLAB, Origin, CAD
+- **Programming**: C Language
+- **Office**: Word, Excel, PPT, Feishu
+- **Creative**: Photoshop, Premiere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔢 [Dynamic Segment Display (Verilog)](https://github.com/yanbw-prog/verilog-digital-display) — FPGA-based 7-segment display with state machine control
+- ⚡ Digital Circuit Simulation (Multisim) — Combinational & sequential logic design
+
+## 📖 Courses
+Electromagnetics · Digital Circuits · Signals & Systems · Analog Electronics · Circuit Analysis · Linear Algebra
+
+## 📫 Contact
+📧 3164900170@qq.com
