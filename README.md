@@ -14,6 +14,7 @@
 ## 📂 Projects
 - 🔢 [Dynamic Segment Display (Verilog)](https://github.com/yanbw-prog/verilog-digital-display) — FPGA-based 7-segment display with state machine control
 - ⚡ Digital Circuit Simulation (Multisim) — Combinational & sequential logic design
+- - 🕐 [Digital Clock (Verilog)](https://github.com/yanbw-prog/digital-clock) — 24小时制数字时钟，6位数码管显示
 
 ## 📖 Courses
 Electromagnetics · Digital Circuits · Signals & Systems · Analog Electronics · Circuit Analysis · Linear Algebra
